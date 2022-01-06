@@ -1,3 +1,18 @@
+
+[Live Demo](https://netflix-app-d5a77.web.app)
+
+# Home Section
+![alt text](public/images/1.png)
+# About Section
+![alt text](public/images/2.png)
+# Child Section
+![alt text](public/images/3.png)
+# Movie Section
+![alt text](public/images/4.png)
+# Page Section
+![alt text](public/images/5.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
